@@ -1,1 +1,1 @@
-# Algorithims_Paired_Dylan_Mark_Sarah
+# algorithms_Paired_Dylan_Mark_Sarah
